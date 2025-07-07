@@ -1,0 +1,3 @@
+Mini-Google is a cool search engine.
+It parses queries and scans text.
+This file is here for testing.
